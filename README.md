@@ -1,4 +1,7 @@
 This is a Travel Agency Project done by our group of four members. In this project, there is a navigation bar in home page with home, about, package, and book. User can see and scroll without create any A/C.
+Author: 
+1. https://github.com/Julkar1007
+2. https://github.com/Sourav15-4588
 
 Features: Search & book, Payment gateway, Admin dashboard
 Users: User can Book & manage trips
